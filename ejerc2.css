@@ -2,8 +2,14 @@
     background-color: #9f3647;
     color: white;
     height: 59px;
-    text-align: right;
     font-family: sans-serif;
+    text-align: center;
+   }
+   ul {
+    display: inline;
+   }
+li {
+    display: inline;
 }
 body {
 background-image: url("images/banner-bg2.jpg"); 
