@@ -1,16 +1,38 @@
 .cabpie {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #9f3647;
+    color: white;
+    height: 59px;
+    font-family: sans-serif;
+       }
+.pie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9f3647;
+    color: white;
+    height: 59px;
+    font-family: sans-serif;
+       }
+.botones {
     background-color: #9f3647;
     color: white;
     height: 59px;
     font-family: sans-serif;
     text-align: center;
    }
-   ul {
+.menusup {
+    width: 100px;
+ 
+}
+   /*ul {
     display: inline;
    }
 li {
     display: inline;
-}
+}*/
 body {
 background-image: url("images/banner-bg2.jpg"); 
 }
